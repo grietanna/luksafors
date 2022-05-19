@@ -1,4 +1,3 @@
-// Traffic light code designed by Marquez Santos! (on facebook)
 // Connect green LED to pin 13 and 7
 // Connect yellow LED to pin 12 and 6
 // Connect red LED to pin 11 and 5
